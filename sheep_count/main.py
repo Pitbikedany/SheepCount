@@ -7,5 +7,5 @@ def count_sheep(n):
         i+=1
     return sheep
 
-n = int(input('Digite um numero:'))
+n = int(input('Insert a number: '))
 print(count_sheep(n))
